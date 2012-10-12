@@ -1,4 +1,4 @@
 php-clare
 =========
 
-Cross-Level Association Rule Engine
+CLARE is **C**ross-**L**evel **A**ssociation **R**ule **E**ngine
